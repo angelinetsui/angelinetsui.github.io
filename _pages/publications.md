@@ -11,7 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-#Peer-reviewed journal articles
+Peer-reviewed journal articles
+----
 
 **Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (invited revision). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. [Data and analysis codes](https://osf.io/u5vwk/)
 
@@ -21,7 +22,8 @@ author_profile: true
 
 **Tsui, A. S. M.**, Ma, Y., Ho, A., Chow, D., & Tseng, C.H. (2016). Bimodal emotion congruency is critical to preverbal infants’ abstract rule learning. _Developmental Science, 19,_ 382–393. 
 
-#Registered reports
+Accepted registered reports
+----
 
 Frank et al., including **Tsui, A. S. M.**, and other contributors in ManyBabies consortium. (Stage 2, under revision). Quantifying sources of variability in infancy research using the infant-directed speech preference. Advances in Methods and Practices in Psychological Science. 
 
@@ -32,19 +34,22 @@ Soderstrom, M., Werker, J. F., **Tsui, A. S. M.**,…., Anderson, L. (Stage 1, p
 Kalashnikova, M†., Singh, L†., **Tsui, A. S. M.***,…., Woo, Pei-Jun (Stage 1, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. Developmental Science.
 †Co-first authors *Second author
 
-#Peer-reviewed conference proceedings
+Peer-reviewed conference proceedings
+----
 
 **Tsui, A. S. M.** & Fennell, C. T. (2019). Do Bilingual Infants Possess Enhanced Cognitive Skills? In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), _Proceedings of the 41st Annual Conference of the Cognitive Science Society,_ 3001-3007. Montreal, QB: Cognitive Science Society.
 
 **Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (2017). Statistical learning from accented speech: A bilingual advantage. In M. LaMendola and J. Scott (Eds.), _Proceedings of the 41st annual Boston University Conference on Language Development,_ 679-690. Somerville, MA: Cascadilla Press. 
 
-#Book chapters
+Book chapters
+----
 
 Fennell, C. T., **Tsui, A. S. M.** (accepted). Multilingualism. _Encyclopedia of Child and Adolescent Development._ Wiley.
 
 Fennell, C. T., **Tsui, A. S. M.**, & Hudon, T. M. (2016). Speech perception in simultaneously bilingual infants. In S. Montanari & E. Nicoladis (Eds.) _Bilingualism across the lifespan: Factors moderating language proficiency._ Washington, USA: American Psychological Association.
 
-#Papers in preparation
+Papers in preparation
+----
 
 **Tsui, A. S. M.**, ….., & Frank, M. C. (in prep). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
 
