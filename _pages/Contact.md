@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archive
+permalink: /Contact/
 title: "Contact"
 excerpt: "Contact"
 author_profile: true
