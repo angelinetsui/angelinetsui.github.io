@@ -6,11 +6,50 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=RelSLDwAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#Peer-reviewed journal articles
+
+**Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (invited revision). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. [Data and analysis codes](https://osf.io/u5vwk/)
+
+**Tsui, A. S. M.**, & Atance, C. (under review). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
+
+**Tsui, A. S. M.**, Byers-Heinlein, K., & Fennell, C. T. (2019). Associative word learning in infancy: A meta-analysis of the switch task. _Developmental Psychology, 55(5),_ 934-950. [Methods, data, and code](https://osf.io/uwe8g/)
+
+**Tsui, A. S. M.**, Ma, Y., Ho, A., Chow, D., & Tseng, C.H. (2016). Bimodal emotion congruency is critical to preverbal infants’ abstract rule learning. _Developmental Science, 19,_ 382–393. 
+
+#Registered reports
+
+Frank et al., including **Tsui, A. S. M.**, and other contributors in ManyBabies consortium. (Stage 2, under revision). Quantifying sources of variability in infancy research using the infant-directed speech preference. Advances in Methods and Practices in Psychological Science. 
+
+Byers-Heinlein, K., Bergmann, C., Black, A.,.,… & **Tsui, A. S. M.** (Stage 1, pending data collection). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. Advances in Methods and Practices in Psychological Science. 
+
+Soderstrom, M., Werker, J. F., **Tsui, A. S. M.**,…., Anderson, L. (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. Journal of Child Language.
+
+Kalashnikova, M†., Singh, L†., **Tsui, A. S. M.***,…., Woo, Pei-Jun (Stage 1, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. Developmental Science.
+†Co-first authors *Second author
+
+#Peer-reviewed conference proceedings
+
+**Tsui, A. S. M.** & Fennell, C. T. (2019). Do Bilingual Infants Possess Enhanced Cognitive Skills? In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), _Proceedings of the 41st Annual Conference of the Cognitive Science Society,_ 3001-3007. Montreal, QB: Cognitive Science Society.
+
+**Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (2017). Statistical learning from accented speech: A bilingual advantage. In M. LaMendola and J. Scott (Eds.), _Proceedings of the 41st annual Boston University Conference on Language Development,_ 679-690. Somerville, MA: Cascadilla Press. 
+
+#Book chapters
+
+Fennell, C. T., **Tsui, A. S. M.** (accepted). Multilingualism. _Encyclopedia of Child and Adolescent Development._ Wiley.
+
+Fennell, C. T., **Tsui, A. S. M.**, & Hudon, T. M. (2016). Speech perception in simultaneously bilingual infants. In S. Montanari & E. Nicoladis (Eds.) _Bilingualism across the lifespan: Factors moderating language proficiency._ Washington, USA: American Psychological Association.
+
+#Papers in preparation
+
+**Tsui, A. S. M.**, ….., & Frank, M. C. (in prep). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
+
+**Tsui, A. S. M.**, Frank, M. C., Brosseau-Liard, P. È. (in prep). The benefits and practical guidelines to log-transforming looking time data. 
+
+**Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (in prep). Statistical word segmentation in a language mixing environment: A bilingual advantage.
+
+**Tsui, A. S. M.**_, Fais, L., & Fennell, C. T. (in prep). Referential Mismatch Leads to Better Word-Object Association at 14 Months.
