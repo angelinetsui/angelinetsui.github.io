@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Angeline Sin Mei Tsui"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Angeline Sin Mei Tsui"
 description              : &description "Postdoc scholar in Department of Psychology at Stanford University"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Angeline Sin Mei Tsui"
-  avatar           : "A.Tsui_self_pic"
+  avatar           : "A.Tsui_self_pic.JPG"
   bio              : "Postdoc scholar in Department of Psychology at Stanford University"
   location         : "Stanford, CA"
   employer         :
