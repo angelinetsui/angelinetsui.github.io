@@ -11,7 +11,7 @@ redirect_from:
 
 Education & Training
 ======
-* Postdoctoral Scholar in the department of Psychology, Stanford University (Dec 2018 ¬– current)
+* Postdoctoral Scholar in the department of Psychology, Stanford University (Dec 2018 – current)
     * Advisor: Dr. Michael C. Frank
 
 * Ph.D. in Experimental Psychology, University of Ottawa (2012 – 2018)
@@ -39,7 +39,7 @@ Awards & Honors
 * Dean’s Honor List, School of Economics and Finance, University of Hong Kong (2005 – 2006, 2007 – 2008)
 
   
-FELLOWSHIPS & GRANTS
+Fellowships & Grants
 ======
 * Nicole Bégin-Heick Scholarship, University of Ottawa (2017 – 2018)
 * GSAED Academic Group Project Funding, Chair of the Statistics Club, University of Ottawa (2017 – 2018)
@@ -61,15 +61,15 @@ Invited talks
 
 Teaching
 ======
-  Guest Lectures
-  ----
+  _Guest Lectures_
+  -
   * Cognitive Development (undergraduate level), University of Ottawa (Oct 2017, Oct 2018)
   * Statistics for Linguistics Research (graduate level), University of Ottawa (Mar 2018)
   * Lifespan Psychology (undergraduate level), University of Ottawa (Jan 2016, Sep 2016)
   * Advanced statistics in Multivariate in data analysis (graduate level), University of Ottawa (Apr 2015, Apr 2016)
   
-  Teaching Assistantship
-  ----
+  _Teaching Assistantship_
+  -
   * Hierarchical Linear Modeling (graduate level), University of Ottawa (2017 – 2018)
   * Advanced Statistics in Multivariate Data Analysis (graduate level), University of Ottawa (2014 – 2017)
   * Quantitative Methods in Psychology II (undergraduate level), University of Ottawa (2016 – 2017)    
