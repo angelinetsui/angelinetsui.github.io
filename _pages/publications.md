@@ -25,13 +25,13 @@ Peer-reviewed journal articles
 Accepted registered reports
 ----
 
-Frank et al., including **Tsui, A. S. M.**, and other contributors in ManyBabies consortium. (Stage 2, under revision). Quantifying sources of variability in infancy research using the infant-directed speech preference. Advances in Methods and Practices in Psychological Science. 
+Frank et al., including **Tsui, A. S. M.**, and other contributors in ManyBabies consortium. (Stage 2, under revision). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._ 
 
-Byers-Heinlein, K., Bergmann, C., Black, A.,.,… & **Tsui, A. S. M.** (Stage 1, pending data collection). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. Advances in Methods and Practices in Psychological Science. 
+Byers-Heinlein, K., Bergmann, C., Black, A.,.,… & **Tsui, A. S. M.** (Stage 1, pending data collection). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
 
-Soderstrom, M., Werker, J. F., **Tsui, A. S. M.**,…., Anderson, L. (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. Journal of Child Language.
+Soderstrom, M., Werker, J. F., **Tsui, A. S. M.**,…., Anderson, L. (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language._
 
-Kalashnikova, M†., Singh, L†., **Tsui, A. S. M.***,…., Woo, Pei-Jun (Stage 1, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. Developmental Science.
+Kalashnikova, M†., Singh, L†., **Tsui, A. S. M.***,…., Woo, Pei-Jun (Stage 1, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._
 †Co-first authors *Second author
 
 Peer-reviewed conference proceedings
@@ -57,4 +57,4 @@ Papers in preparation
 
 **Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (in prep). Statistical word segmentation in a language mixing environment: A bilingual advantage.
 
-**Tsui, A. S. M.**_, Fais, L., & Fennell, C. T. (in prep). Referential Mismatch Leads to Better Word-Object Association at 14 Months.
+**Tsui, A. S. M.**, Fais, L., & Fennell, C. T. (in prep). Referential Mismatch Leads to Better Word-Object Association at 14 Months.
