@@ -31,7 +31,8 @@ Byers-Heinlein, K., Bergmann, C., Black, A.,.,… & **Tsui, A. S. M.** (Stage 1,
 
 Soderstrom, M., Werker, J. F., **Tsui, A. S. M.**,…., Anderson, L. (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language._
 
-Kalashnikova, M†., Singh, L†., **Tsui, A. S. M.***,…., Woo, Pei-Jun (Stage 1, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._..
+Kalashnikova, M†., Singh, L†., **Tsui, A. S. M.***,…., Woo, Pei-Jun (Stage 1, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._
+
 †Co-first authors *Second author
 
 Peer-reviewed conference proceedings
