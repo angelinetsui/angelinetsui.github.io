@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Research"
+permalink: /Research/
+author_profile: true
+
+---
+
+Bilingual word learning: segmenting words from two languages in a language mixing enviornment.
+---
+Parents often mix two languages in bilingual homes, presenting a challenge to bilingual infants because infants need learn words separately from each language but words are ambiguous of what language they are in under a language mixing environment. Further, the syllable-based transitional probability across the two languages may be in conflict with each other when the two languages share some syllables in common. In collaboration with Dr. Christopher Fennell and Dr. Erik Thiessen, I investigate how learners (both infants and adults) handle the challenges of statistically segment words from two overlapping languages in a language mixing environment.
+
+Use of large-scale, multiple site data to study infant language and cognitive development.
+---
+Young infants have short attention spans, often refuse to participate in experiments and are difficult to recruit in large numbers. The small samples in infant experiments lead to concerns of both type II errors (lack of power) and type I errors (spurious, non-replicable findings driven by noise in small samples), and more broadly, a lack of generalizability of key findings in infancy. To solve this problem, I use large-scale and multiple site data to study infant language development (through my involvement in Manybabies Consortium) and meta-analytical methods to summarize findings across different studies in the literature. Further, I am interested in exploring innovative statistical methods to foster the development of best research practice in infancy research (e.g., finding the appropriate statistical analysis for small samples).
+
+Children's future thinking: what underlies children's saving behavior?
+---
+Young children’s ability to save emerges during the preschool years (age 3 to 5), but very little is known about what underlies its development. In particular, I am interested in what motivates children to save for their future. Research with adults suggests that feeling connected to one’s future self (future self-connectedness) and thinking about the future (episodic future thinking) increases adults’ decisions to defer future consumption (e.g., saving and temporal discounting). In collaboration with Dr. Cristina Atance, I investigater whether preschoolers’ future self-connectedness and episodic future thinking predict their saving behavior. 
