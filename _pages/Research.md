@@ -8,7 +8,7 @@ author_profile: true
 
 Bilingual word learning: segmenting words from two languages in a mixed language enviornment.
 ---
-Parents often mix two languages in bilingual homes. This presents a challenge to bilingual infants who need to learn words separately from each language despite the ambiguity regarding its origin in a mixed environment. Further, the syllable-based transitional probability across the two languages may be in conflict with each other when the two languages share some syllables in common. In collaboration with Dr. Christopher Fennell and Dr. Erik Thiessen, I investigate how learners (both infants and adults) handle the challenges of statistically segmenting words from two overlapping languages when the language environment is mixed.
+Parents often mix two languages in bilingual homes. This presents a challenge to bilingual infants who need to learn words separately from each language despite the ambiguity regarding the words' origin in a mixed environment. Further, the syllable-based transitional probability across the two languages may be in conflict with each other when the two languages share some syllables in common. In collaboration with Dr. Christopher Fennell and Dr. Erik Thiessen, I investigate how learners (both infants and adults) handle the challenges of statistically segmenting words from two overlapping languages when the language environment is mixed.
 
 Use of large-scale, multiple site data to study infant language and cognitive development.
 ---
@@ -16,4 +16,4 @@ Young infants have short attention spans, often refuse to participate in experim
 
 Children's future thinking: what underlies children's saving behavior?
 ---
-Young children’s ability to save emerges during the preschool years (age 3 to 5), but very little is known about what underlies its development. In particular, I am interested in what motivates children to save for their future. Research with adults suggests that feeling connected to one’s future self (future self-connectedness) and the abikity to think about the future (episodic future thinking) increases saving behaviors. In collaboration with Dr. Cristina Atance, I investigate whether preschoolers’ future self-connectedness and episodic future thinking predict their saving behavior. 
+Young children’s ability to save emerges during the preschool years (age 3 to 5), but very little is known about what underlies its development. In particular, I am interested in what motivates children to save for their future. Research with adults suggests that feeling connected to one’s future self (future self-connectedness) and the ability to think about the future (episodic future thinking) increases saving behaviors. In collaboration with Dr. Cristina Atance, I investigate whether preschoolers’ future self-connectedness and episodic future thinking predict their saving behavior. 
