@@ -14,6 +14,8 @@ author_profile: true
 Peer-reviewed journal articles
 ----
 
+Frank et al., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium. (accepted). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
+
 **Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (invited revision). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. [Data and analysis codes](https://osf.io/u5vwk/)
 
 **Tsui, A. S. M.**, & Atance, C. (under review). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
@@ -25,13 +27,11 @@ Peer-reviewed journal articles
 Accepted registered reports
 ----
 
-Frank et al., including **Tsui, A. S. M.**, and other contributors in ManyBabies consortium. (Stage 2, under revision). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._ 
+Byers-Heinlein, K., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium (Stage 1, pending data analysis). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
 
-Byers-Heinlein, K., Bergmann, C., Black, A.,.,… & **Tsui, A. S. M.** (Stage 1, pending data collection). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
+Soderstrom, M., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language._
 
-Soderstrom, M., Werker, J. F., **Tsui, A. S. M.**,…., Anderson, L. (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language._
-
-Kalashnikova, M†., Singh, L†., **Tsui, A. S. M.***,…., Woo, Pei-Jun (Stage 1, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._
+Kalashnikova, M†., Singh, L†., **Tsui, A. S. M***. and other contributing authors  (Stage 1, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._
 
 †Co-first authors *Second author
 
@@ -52,7 +52,7 @@ Fennell, C. T., **Tsui, A. S. M.**, & Hudon, T. M. (2016). Speech perception in 
 Papers in preparation
 ----
 
-**Tsui, A. S. M.**, ….., & Frank, M. C. (in prep). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
+**Tsui, A. S. M.**, and other contributors in ManyBabies consortium. Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
 
 **Tsui, A. S. M.**, Frank, M. C., Brosseau-Liard, P. È. (in prep). The benefits and practical guidelines to log-transforming looking time data. 
 

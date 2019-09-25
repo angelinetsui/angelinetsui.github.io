@@ -85,7 +85,7 @@ Service and leadership
 ======
 * Chair, Statistics Club, School of Psychology, University of Ottawa (2014 – 2018)
     * Organized regular statistical meetings (a total of 10 meetings) for graduate students and professors. 
-    * Successfully applied for funds to organize the Bayesian analysis meeting series. I have organized four Bayesian analysis workshops during 2016 to 2018, including “an introduction to R”, “an introduction to Bayesian analysis”, “Bayesian structural equation modeling”, “Bayesian inference”. 
+    * Successfully applied for funds to organize the Bayesian analysis meeting series. I organized four Bayesian analysis workshops during 2016 to 2018, including “an introduction to R”, “an introduction to Bayesian analysis”, “Bayesian structural equation modeling”, “Bayesian inference”. 
 * Chair, Pre-conference event, Canadian Society for Brain, Behavior and Cognitive Science (2015 – 2016)
     * Organized two parallel one-day workshops for a pre-conference event, which were “an introduction to R” (workshop 1) and “Using R for structural equation modeling” (workshop 2).
 * Co-Chair, Peer-Review Committee, the Interdisciplinary Conference in Psychology (2013 – 2016)
