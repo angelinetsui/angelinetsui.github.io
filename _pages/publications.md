@@ -18,8 +18,6 @@ Frank et al., including **Tsui, A. S. M.** and other contributors in ManyBabies 
 
 **Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (invited revision). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. [Data and analysis codes](https://osf.io/u5vwk/)
 
-**Tsui, A. S. M.**, & Atance, C. (under review). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
-
 **Tsui, A. S. M.**, Byers-Heinlein, K., & Fennell, C. T. (2019). Associative word learning in infancy: A meta-analysis of the switch task. _Developmental Psychology, 55(5),_ 934-950. [Methods, data, and code](https://osf.io/uwe8g/)
 
 **Tsui, A. S. M.**, Ma, Y., Ho, A., Chow, D., & Tseng, C.H. (2016). Bimodal emotion congruency is critical to preverbal infants’ abstract rule learning. _Developmental Science, 19,_ 382–393. 
@@ -51,6 +49,7 @@ Fennell, C. T., **Tsui, A. S. M.**, & Hudon, T. M. (2016). Speech perception in 
 
 Papers in preparation
 ----
+**Tsui, A. S. M.**, & Atance, C. (in prep). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
 
 **Tsui, A. S. M.**, and other contributors in ManyBabies consortium. Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
 
