@@ -14,9 +14,9 @@ author_profile: true
 Peer-reviewed journal articles
 ----
 
-Frank et al., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium. (accepted). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
+ManyBabies Consortium, including **Tsui, A. S. M.**. (in press). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
 
-**Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (invited revision). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. [Data and analysis codes](https://osf.io/u5vwk/)
+**Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (revised manuscript under review). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. [Data and analysis codes](https://osf.io/u5vwk/)
 
 **Tsui, A. S. M.**, Byers-Heinlein, K., & Fennell, C. T. (2019). Associative word learning in infancy: A meta-analysis of the switch task. _Developmental Psychology, 55(5),_ 934-950. [Methods, data, and code](https://osf.io/uwe8g/)
 
