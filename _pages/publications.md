@@ -14,7 +14,10 @@ author_profile: true
 Peer-reviewed journal articles
 ----
 
-ManyBabies Consortium, including **Tsui, A. S. M.**. (in press). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
+Byers-Heinlein, K., **Tsui, A. S. M.*** and other contributors in ManyBabies consortium (Stage 2 registered report, under review). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
+ *Second author
+
+ManyBabies Consortium, including **Tsui, A. S. M.**. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
 
 **Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (revised manuscript under review). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. [Data and analysis codes](https://osf.io/u5vwk/)
 
@@ -24,8 +27,6 @@ ManyBabies Consortium, including **Tsui, A. S. M.**. (in press). Quantifying sou
 
 Accepted registered reports
 ----
-
-Byers-Heinlein, K., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium (Stage 1, pending data analysis). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
 
 Soderstrom, M., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language._
 
@@ -43,12 +44,13 @@ Peer-reviewed conference proceedings
 Book chapters
 ----
 
-Fennell, C. T., **Tsui, A. S. M.** (accepted). Multilingualism. _Encyclopedia of Child and Adolescent Development._ Wiley.
+Fennell, C. T., **Tsui, A. S. M.** (2020). Multilingualism. _Encyclopedia of Child and Adolescent Development._ Wiley.
 
 Fennell, C. T., **Tsui, A. S. M.**, & Hudon, T. M. (2016). Speech perception in simultaneously bilingual infants. In S. Montanari & E. Nicoladis (Eds.) _Bilingualism across the lifespan: Factors moderating language proficiency._ Washington, USA: American Psychological Association.
 
 Papers in preparation
 ----
+
 **Tsui, A. S. M.**, & Atance, C. (in prep). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
 
 **Tsui, A. S. M.**, and other contributors in ManyBabies consortium. Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
