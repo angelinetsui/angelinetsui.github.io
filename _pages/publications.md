@@ -15,7 +15,8 @@ Peer-reviewed journal articles
 ----
 
 Byers-Heinlein, K., **Tsui, A. S. M.*** and other contributors in ManyBabies consortium (Stage 2 registered report, under review). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
- *Second author
+
+*Second author
 
 ManyBabies Consortium, including **Tsui, A. S. M.**. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
 
