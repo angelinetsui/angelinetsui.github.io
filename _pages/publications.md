@@ -13,6 +13,7 @@ author_profile: true
 
 Peer-reviewed journal articles
 ----
+**Tsui, A. S. M.**, & Atance, C. M. (under review). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
 
 **Tsui, A. S. M.**, and other contributors (Stage 1 RR under review). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
 
@@ -20,9 +21,9 @@ Byers-Heinlein, K., **Tsui, A. S. M.*** and other contributors in ManyBabies con
 
 *Second author
 
-ManyBabies Consortium, including **Tsui, A. S. M.**. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
+**Tsui, A. S. M.**, Erickson, L. C., Mallikarjunn, A., Thiessen, E. D., & Fennell, C. T. (accepted with minor revision). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. _Developmental Science._ [Data and analysis codes](https://osf.io/u5vwk/)
 
-**Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (revised manuscript under review). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. [Data and analysis codes](https://osf.io/u5vwk/)
+ManyBabies Consortium, including **Tsui, A. S. M.**. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
 
 **Tsui, A. S. M.**, Byers-Heinlein, K., & Fennell, C. T. (2019). Associative word learning in infancy: A meta-analysis of the switch task. _Developmental Psychology, 55(5),_ 934-950. [Methods, data, and code](https://osf.io/uwe8g/)
 
@@ -42,7 +43,7 @@ Peer-reviewed conference proceedings
 
 **Tsui, A. S. M.** & Fennell, C. T. (2019). Do Bilingual Infants Possess Enhanced Cognitive Skills? In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), _Proceedings of the 41st Annual Conference of the Cognitive Science Society,_ 3001-3007. Montreal, QB: Cognitive Science Society.
 
-**Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (2017). Statistical learning from accented speech: A bilingual advantage. In M. LaMendola and J. Scott (Eds.), _Proceedings of the 41st annual Boston University Conference on Language Development,_ 679-690. Somerville, MA: Cascadilla Press. 
+**Tsui, A. S. M.**, Erickson, L. C., Thiessen, E. D., & Fennell, C. T. (2017). Statistical learning from accented speech: A bilingual advantage. In M. LaMendola and J. Scott (Eds.), _Proceedings of the 41st annual Boston University Conference on Language Development,_ 679-690. Somerville, MA: Cascadilla Press. 
 
 Book chapters
 ----
@@ -54,9 +55,7 @@ Fennell, C. T., **Tsui, A. S. M.**, & Hudon, T. M. (2016). Speech perception in 
 Papers in preparation
 ----
 
-**Tsui, A. S. M.**, & Atance, C. (in prep). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
-
-**Tsui, A. S. M.**, Frank, M. C., Brosseau-Liard, P. È. (in prep). The benefits and practical guidelines to log-transforming looking time data. 
+**Tsui, A. S. M.**, Mathur, M. B., Frank, M. C., Brosseau-Liard, P. È. (in prep). The benefits and practical guidelines to log-transforming looking time data. 
 
 **Tsui, A. S. M.**, Erickson, L., Thiessen, E., & Fennell, C. T. (in prep). Statistical word segmentation in a language mixing environment: A bilingual advantage.
 
