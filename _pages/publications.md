@@ -13,11 +13,11 @@ author_profile: true
 
 Peer-reviewed journal articles
 ----
-**Tsui, A. S. M.**, & Atance, C. M. (under review). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
+**Tsui, A. S. M.**, & Atance, C. M. (under revision). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
 
 **Tsui, A. S. M.**, and other contributors (Stage 1 RR under review). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
 
-Byers-Heinlein, K., **Tsui, A. S. M.*** and other contributors in ManyBabies consortium (Stage 2 registered report, under review). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
+Byers-Heinlein, K., **Tsui, A. S. M.*** and other contributors in ManyBabies consortium (accepted). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
 
 *Second author
 
@@ -34,7 +34,7 @@ Accepted registered reports
 
 Soderstrom, M., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language._
 
-Kalashnikova, M†., Singh, L†., **Tsui, A. S. M***. and other contributing authors  (Stage 1, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._
+Kalashnikova, M†., Singh, L†., **Tsui, A. S. M***. and other contributing authors  (Stage 1, pending data collection). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._
 
 †Co-first authors *Second author
 
