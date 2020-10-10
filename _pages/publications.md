@@ -22,7 +22,7 @@ Byers-Heinlein, K., **Tsui, A. S. M.*** and other contributors in ManyBabies con
 
 *Second author
 
-**Tsui, A. S. M.**, Erickson, L. C., Mallikarjunn, A., Thiessen, E. D., & Fennell, C. T. (accepted with minor revision). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. _Developmental Science._ [Data and analysis codes](https://osf.io/u5vwk/)
+**Tsui, A. S. M.**, Erickson, L. C., Mallikarjunn, A., Thiessen, E. D., & Fennell, C. T. (accepted). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. _Developmental Science._ [Data and analysis codes](https://osf.io/u5vwk/)
 
 ManyBabies Consortium, including **Tsui, A. S. M.**. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
 
