@@ -49,6 +49,8 @@ Peer-reviewed conference proceedings
 Book chapters
 ----
 
+**Tsui, A. S. M.**, Marchman, A. V., Frank, M. C. (invited submission). A large-scale data approach to study children’s language development. _Advances in Child Development and Behavior._ 
+
 Fennell, C. T., **Tsui, A. S. M.** (2020). Multilingualism. _Encyclopedia of Child and Adolescent Development._ Wiley.
 
 Fennell, C. T., **Tsui, A. S. M.**, & Hudon, T. M. (2016). Speech perception in simultaneously bilingual infants. In S. Montanari & E. Nicoladis (Eds.) _Bilingualism across the lifespan: Factors moderating language proficiency._ Washington, USA: American Psychological Association.
