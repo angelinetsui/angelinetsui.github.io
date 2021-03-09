@@ -13,7 +13,8 @@ author_profile: true
 
 Peer-reviewed journal articles
 ----
-**Tsui, A. S. M.**, & Atance, C. M. (under revision). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
+
+**Tsui, A. S. M.**, & Atance, C. M. (revised manuscript under review). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
 
 **Tsui, A. S. M.**, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D.,
 Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (Stage 1 RR under review). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
@@ -30,8 +31,10 @@ ManyBabies Consortium, including **Tsui, A. S. M.**. (2020). Quantifying sources
 
 **Tsui, A. S. M.**, Ma, Y., Ho, A., Chow, D., & Tseng, C.H. (2016). Bimodal emotion congruency is critical to preverbal infants’ abstract rule learning. _Developmental Science, 19,_ 382–393. 
 
-Accepted registered reports
+Registered reports
 ----
+
+Schuwerk, T., including **Tsui, A. S. M.** and other contributing authors (invited Stage 1, under review). Action anticipation based on an agent's epistemic state in toddlers and adults. Child Development. 
 
 Soderstrom, M., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language._
 
@@ -49,7 +52,7 @@ Peer-reviewed conference proceedings
 Book chapters
 ----
 
-**Tsui, A. S. M.**, Marchman, A. V., Frank, M. C. (invited submission). A large-scale data approach to study children’s language development. _Advances in Child Development and Behavior._ 
+**Tsui, A. S. M.**, Marchman, A. V., Frank, M. C. (invited submission, manuscript under revision). Building theories of consistency and variability in children’s language development: A large-scale data approach. _Advances in Child Development and Behavior._ 
 
 Fennell, C. T., **Tsui, A. S. M.** (2020). Multilingualism. _Encyclopedia of Child and Adolescent Development._ Wiley.
 
