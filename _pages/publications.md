@@ -14,11 +14,6 @@ author_profile: true
 Peer-reviewed journal articles
 ----
 
-**Tsui, A. S. M.**, & Atance, C. M. (revised manuscript under review). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
-
-**Tsui, A. S. M.**, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D.,
-Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (Stage 1 RR under review). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
-
 Byers-Heinlein, K., **Tsui, A. S. M.*** and other contributors in ManyBabies consortium (accepted). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
 
 *Second author
@@ -33,6 +28,9 @@ ManyBabies Consortium, including **Tsui, A. S. M.**. (2020). Quantifying sources
 
 Registered reports
 ----
+
+**Tsui, A. S. M.**, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D.,
+Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (Stage 1 RR accepted, pending data collection). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
 
 Schuwerk, T., including **Tsui, A. S. M.** and other contributing authors (invited Stage 1, under review). Action anticipation based on an agent's epistemic state in toddlers and adults. Child Development. 
 
@@ -52,7 +50,7 @@ Peer-reviewed conference proceedings
 Book chapters
 ----
 
-**Tsui, A. S. M.**, Marchman, A. V., Frank, M. C. (invited submission, manuscript under revision). Building theories of consistency and variability in children’s language development: A large-scale data approach. _Advances in Child Development and Behavior._ 
+**Tsui, A. S. M.**, Marchman, A. V., Frank, M. C. (2021). Building theories of consistency and variability in children’s language development: A large-scale data approach. _Advances in Child Development and Behavior._ 
 
 Fennell, C. T., **Tsui, A. S. M.** (2020). Multilingualism. _Encyclopedia of Child and Adolescent Development._ Wiley.
 
@@ -60,6 +58,8 @@ Fennell, C. T., **Tsui, A. S. M.**, & Hudon, T. M. (2016). Speech perception in 
 
 Papers in preparation
 ----
+
+**Tsui, A. S. M.**, & Atance, C. M. (in prep). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
 
 **Tsui, A. S. M.**, Mathur, M. B., Frank, M. C., Brosseau-Liard, P. È. (in prep). The benefits and practical guidelines to log-transforming looking time data. 
 
