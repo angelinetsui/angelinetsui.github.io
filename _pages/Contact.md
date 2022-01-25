@@ -9,6 +9,5 @@ redirect_from:
   - /about.html
 ---
 
-Email: astsui (at) stanford.edu or angelinetsui (at) gmail.com
+Email: angelinetsui (at) gmail.com
 
-Mailing address: Jordan Hall, 450 Serra Mall, Stanford, CA 94305
