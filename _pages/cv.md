@@ -11,7 +11,7 @@ redirect_from:
 
 Education & Training
 ======
-* User research Data Scientist, Huawei Technologies Canada Co., Ltd (Sept 2018  current)
+* User research Data Scientist, Huawei Technologies Canada Co., Ltd (Sept 2021 - current)
 
 * Postdoctoral Scholar in the department of Psychology, Stanford University (Dec 2018 - Aug 2018)
     * Advisor: Dr. Michael C. Frank

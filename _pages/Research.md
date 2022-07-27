@@ -1,11 +1,17 @@
 ---
 layout: archive
-title: "Research"
-permalink: /Research/
+title: "Academic Research"
+permalink: /Academic Research/
 author_profile: true
 
 ---
+Current Research
+---
+Lead and build a novel key experience indicator (KEI) framework that evaluates user experience (UX) for Huawei Cloud products. This model provides an end-to-end evaluation of the product UX from the first day of product design to the last stage when the product is released in the market.
 
+
+Past Research
+---
 Bilingual word learning: segmenting words from two languages in a mixed language enviornment.
 ---
 Parents often mix two languages in bilingual homes. This presents a challenge to bilingual infants because they need learn words separately from each of the two languages, but it is unclear which language the words are coming from in a language mixing environment. Further, the syllable-based transitional probability across the two languages may be in conflict with each other when the two languages share some syllables in common. In collaboration with Dr. Christopher Fennell and Dr. Erik Thiessen, I investigate how learners (both infants and adults) handle the challenges of statistically segmenting words from two overlapping languages when the language environment is mixed.
