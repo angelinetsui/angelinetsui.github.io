@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Angeline Sin Mei Tsui"
 title_separator          : "-"
 name                     : &name "Angeline Sin Mei Tsui"
-description              : &description "Postdoc scholar in the Department of Psychology at Stanford University"
+description              : &description "UX data scientist at Huawei"
 url                      : https://angelinetsui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "angelinetsui/angelinetsui.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Angeline Sin Mei Tsui"
   avatar           : "A.Tsui_self_pic.JPG"
-  bio              : "Postdoc scholar in the Department of Psychology at Stanford University"
-  location         : "Stanford, CA"
+  bio              : "UX data scientist at Huawei"
+  location         : "Toronto, Canada"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=RelSLDwAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/angeline-sin-mei-tsui/"
   orcid            : "https://orcid.org/0000-0003-0333-7234"
   pinterest        :
   soundcloud       :
