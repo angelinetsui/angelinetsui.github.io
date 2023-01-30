@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a user research data scientist at Huawei Technologies Canada Co., Ltd. I previously was a postdoctoral researcher working with Michael C. Frank at Stanford University. I am passionate about applying data science approach (e.g., large-scale data approach) in studying important question in the world, for example developing a system that uses machine learning algorithm to track user experience across different products.
-
+I am a Senior User Experience (UX) Researcher at Huawei Technologies Canada Co., Ltd. My research work focuses on human-computer interaction, with current focus on designing trustworthy AI systems and developing UX evaluation system for a wide range of products at Huawei. I have a background in Psychology and I am knowledgable in both qualitative and quantitative research methods. I previously was a postdoctoral/data scientist researcher at Stanford University and I earned my Ph.D. degree in Experimental Psychology at University of Ottawa. I am passionate about applying my UX research skills to help product teams design human-centered products and systems that empower users with different backgrounds and needs. 

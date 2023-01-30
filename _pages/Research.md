@@ -10,19 +10,15 @@ author_profile: true
 
 Current Research
 ---
-Lead and build a novel key experience indicator (KEI) framework that evaluates user experience (UX) for Huawei Cloud products. This model provides an end-to-end evaluation of the product UX from the first day of product design to the last stage when the product is released in the market.
 
+Designing trustworthy AI systems
+---
+With the advancement in AI technology, users often make decisions based on predictions suggested by the AI systems. However, the underlying models that produces AI system predictions to users are often opaque (also known as black-box model) and can contain flaws (e.g., bias in data set and prediction), thus leading to possible undesirable decisions made by users (e.g., unfair decisions). Thus, it is important to ensure AI technology and systems are trustworthy in the whole AI lifecycle, from the early design stage, development, deployment and final use. At Huawei, I lead the UX research team to develop a roadmap that integrates Huawei AI trustworthy principles into product design
+and lifecycle, to create a framework that includes factors contributing users’ trust in AI products, and to provide
+engineers and product teams with tailor-made guidelines of how to design trustworthy AI cloud products.
 
-Past Research
+UX evaluation that monitors UX and provides actionable insights to product teams for UX improvement
 ---
-Bilingual word learning: segmenting words from two languages in a mixed language enviornment.
----
-Parents often mix two languages in bilingual homes. This presents a challenge to bilingual infants because they need learn words separately from each of the two languages, but it is unclear which language the words are coming from in a language mixing environment. Further, the syllable-based transitional probability across the two languages may be in conflict with each other when the two languages share some syllables in common. In collaboration with Dr. Christopher Fennell and Dr. Erik Thiessen, I investigate how learners (both infants and adults) handle the challenges of statistically segmenting words from two overlapping languages when the language environment is mixed.
+UX evaluation with software products is an essential aspect of supporting a product lifecycle and the success of the product. Generally, UX evaluation has two purposes: (i) evaluate if the product meets users' needs and goals; (ii) provide product teams and designers with insights on which aspects of the product need improvement for better UX. At Huawei, I lead and develop a two-tier framework that evaluates UX across 200+ Huawei Cloud products. In this framework, I define metrics that can identify which part of UX suffers and provide actionable insights to the corresponding teams to improve product design. This work was accepted as a paper in the international conference on Human-Computer Interaction 2023.
 
-Use of large-scale, multiple site data to study infant language and cognitive development.
----
-Young infants have short attention spans, often refuse to participate in experiments and are difficult to recruit in large numbers. The small samples in infant experiments lead to concerns of both type II errors (lack of power) and type I errors (spurious, non-replicable findings driven by noise in small samples), and more broadly, a lack of generalizability of key findings in infancy. To solve this problem, I use large-scale and multiple site data to study infant language development (through my involvement in Manybabies Consortium) and meta-analytical methods to summarize findings across different studies in the literature. Further, I am interested in exploring innovative statistical methods to foster the development of best research practice in infancy research (e.g., finding the appropriate statistical analysis for small samples).
-
-Children's future thinking: what underlies children's saving behavior?
----
-Young children’s ability to save emerges during the preschool years (age 3 to 5), but very little is known about what underlies its development. In particular, I am interested in what motivates children to save for their future. Research with adults suggests that feeling connected to one’s future self (future self-connectedness) and the ability to think about the future (episodic future thinking) increases saving behaviors. In collaboration with Dr. Cristina Atance, I investigate whether preschoolers’ future self-connectedness and episodic future thinking predict their saving behavior. 
+In order to measure UX in a holistic way, I utilized both quantitative methods (e.g., data-driven machine learning approach, survey, users' behavioral measures) and enterprise design thinking, qualitative (e.g., enterprise design thinking, users interviews, usability studies, heuristic evaluation) to identify unmet users' needs, goals and painpoints. In addition, I also provide product teams with guidelines and instructions of how to interpret UX metrics and information gathered by different UX research methods.
