@@ -11,9 +11,11 @@ redirect_from:
 
 Education & Training
 ======
-* Senior User Researcher, Huawei Technologies Canada Co., Ltd (Sept 2021 - current)
+* Senior User Researcher, Huawei Technologies Canada Co., Ltd (Sept 2022 - current)
 
-* Postdoctoral Scholar in the department of Psychology, Stanford University (Dec 2018 - Aug 2018)
+* User Researcher, Huawei Technologies Canada Co., Ltd (Sept 2021 - Aug 2022)
+
+* Postdoctoral Scholar in the department of Psychology, Stanford University (Dec 2018 - Aug 2021)
     * Advisor: Dr. Michael C. Frank
 
 * Ph.D. in Experimental Psychology, University of Ottawa (2012 – 2018)

@@ -11,41 +11,54 @@ author_profile: true
 
 {% include base_path %}
 
-Peer-reviewed journal articles
+Peer-reviewed journal articles and conference proccedings
 ----
 
-Byers-Heinlein, K., **Tsui, A. S. M.*** and other contributors in ManyBabies consortium (accepted). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
+**Tsui, A. S. M.**, & Kuzminykh, A. (accepted), Detect and Interpret: Towards Operationalization of Automated User Experience Evaluation. _Proceedings of the 25th HCI International Conference, HCII 2023_
+
+**Tsui, A. S. M.**, & Atance, C. M. (2022). Young Children’s Saving and Their Episodic Future Thinking. _Journal of Cognition and Development,_ 1-20.
+
+Singh, L., Barokova, M., including **Tsui, A. S. M.**, ... & Frank, M. C. (under review). A Unified Approach to Demographic Data Collection for Research with Young Children Across Diverse Cultures.
+
+Weisleder, A., Friend, M., **Tsui, A. S. M.**, & Marchman, V. A. (under review). Using Parent Report to Measure Vocabulary in Young Bilingual Children: A Scoping Review
+
+Zettersten, M., including **Tsui, A. S. M.**, .... & Frank, M. C. (2022). Peekbank: An open, large-scale repository for developmental eye-tracking data of children’s word recognition. _Behavior Research Methods_, 1-16.
+
+Byers-Heinlein, K., **Tsui, A. S. M.*** and other contributors in ManyBabies consortium (2021). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science._ 
 
 *Second author
 
-**Tsui, A. S. M.**, Erickson, L. C., Mallikarjunn, A., Thiessen, E. D., & Fennell, C. T. (accepted). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. _Developmental Science._ [Data and analysis codes](https://osf.io/u5vwk/)
+Zettersten, M., including **Tsui, A. S. M.**, ... & Frank, M. C. (2021). Peekbank: Exploring children's word recognition through an open, large-scale repository for developmental eye-tracking data. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 43, No. 43).
+
+**Tsui, A. S. M.**, Erickson, L. C., Mallikarjunn, A., Thiessen, E. D., & Fennell, C. T. (2020). Dual Language Statistical Word Segmentation in Infancy: Simulating a Language-Mixing Bilingual Environment. _Developmental Science._ [Data and analysis codes](https://osf.io/u5vwk/)
 
 ManyBabies Consortium, including **Tsui, A. S. M.**. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
 
+**Tsui, A. S. M.** & Fennell, C. T. (2019). Do Bilingual Infants Possess Enhanced Cognitive Skills? In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), _Proceedings of the 41st Annual Conference of the Cognitive Science Society,_ 3001-3007. Montreal, QB: Cognitive Science Society.
+
 **Tsui, A. S. M.**, Byers-Heinlein, K., & Fennell, C. T. (2019). Associative word learning in infancy: A meta-analysis of the switch task. _Developmental Psychology, 55(5),_ 934-950. [Methods, data, and code](https://osf.io/uwe8g/)
 
+**Tsui, A. S. M.**, Erickson, L. C., Thiessen, E. D., & Fennell, C. T. (2017). Statistical learning from accented speech: A bilingual advantage. In M. LaMendola and J. Scott (Eds.), _Proceedings of the 41st annual Boston University Conference on Language Development,_ 679-690. Somerville, MA: Cascadilla Press. 
+
 **Tsui, A. S. M.**, Ma, Y., Ho, A., Chow, D., & Tseng, C.H. (2016). Bimodal emotion congruency is critical to preverbal infants’ abstract rule learning. _Developmental Science, 19,_ 382–393. 
+
 
 Registered reports
 ----
 
 **Tsui, A. S. M.**, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D.,
-Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (Stage 1 RR accepted, pending data collection). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. 
+Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (Stage 1 RR accepted, pending data collection). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. _Developmental Science_
 
-Schuwerk, T., including **Tsui, A. S. M.** and other contributing authors (invited Stage 1, under review). Action anticipation based on an agent's epistemic state in toddlers and adults. Child Development. 
+Visser, I., Geambasu, A., including **Tsui, A. S. M.** ... & Levelt, C. (2021). ManyBabies 3: A multi-lab study of infant algebraic rule learning. _Developmental Science_
 
-Soderstrom, M., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium (Stage 1, pending data collection). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language._
+Schuwerk, T., including **Tsui, A. S. M.** and other contributing authors (Stage 1 RR accepted, pending data collection). Action anticipation based on an agent's epistemic state in toddlers and adults. _Child Development_
 
-Kalashnikova, M†., Singh, L†., **Tsui, A. S. M***. and other contributing authors  (Stage 1, pending data collection). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._
+Soderstrom, M., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium (Stage 1 RR, pending data analysis). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language_
+
+Kalashnikova, M†., Singh, L†., **Tsui, A. S. M***. and other contributing authors  (Stage 2 RR, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._
 
 †Co-first authors *Second author
 
-Peer-reviewed conference proceedings
-----
-
-**Tsui, A. S. M.** & Fennell, C. T. (2019). Do Bilingual Infants Possess Enhanced Cognitive Skills? In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), _Proceedings of the 41st Annual Conference of the Cognitive Science Society,_ 3001-3007. Montreal, QB: Cognitive Science Society.
-
-**Tsui, A. S. M.**, Erickson, L. C., Thiessen, E. D., & Fennell, C. T. (2017). Statistical learning from accented speech: A bilingual advantage. In M. LaMendola and J. Scott (Eds.), _Proceedings of the 41st annual Boston University Conference on Language Development,_ 679-690. Somerville, MA: Cascadilla Press. 
 
 Book chapters
 ----
@@ -56,10 +69,9 @@ Fennell, C. T., **Tsui, A. S. M.** (2020). Multilingualism. _Encyclopedia of Chi
 
 Fennell, C. T., **Tsui, A. S. M.**, & Hudon, T. M. (2016). Speech perception in simultaneously bilingual infants. In S. Montanari & E. Nicoladis (Eds.) _Bilingualism across the lifespan: Factors moderating language proficiency._ Washington, USA: American Psychological Association.
 
+
 Papers in preparation
 ----
-
-**Tsui, A. S. M.**, & Atance, C. M. (in prep). Feeling Connected to their Future Selves Predicts Preschoolers’ Saving Behavior. [Materials, data and analysis codes](https://osf.io/C7546/)
 
 **Tsui, A. S. M.**, Mathur, M. B., Frank, M. C., Brosseau-Liard, P. È. (in prep). The benefits and practical guidelines to log-transforming looking time data. 
 
