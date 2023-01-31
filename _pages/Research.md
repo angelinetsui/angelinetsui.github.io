@@ -10,9 +10,7 @@ author_profile: true
 
 Designing trustworthy AI systems
 ---
-With the advancement in AI technology, users often make decisions based on predictions suggested by the AI systems. However, the underlying models that produces AI system predictions to users are often opaque (also known as black-box model) and can contain flaws (e.g., bias in data set and prediction), thus leading to possible undesirable decisions made by users (e.g., unfair decisions). Thus, it is important to ensure AI technology and systems are trustworthy in the whole AI lifecycle, from the early design stage, development, deployment and final use. At Huawei, I lead the UX research team to develop a roadmap that integrates Huawei AI trustworthy principles into product design
-and lifecycle, to create a framework that includes factors contributing users’ trust in AI products, and to provide
-engineers and product teams with tailor-made guidelines of how to design trustworthy AI cloud products.
+With the advancement in AI technology, users often make decisions based on predictions suggested by the AI systems. However, the underlying models that produces AI system predictions to users are often opaque (also known as black-box model) and can contain flaws (e.g., bias in data set and prediction), thus leading to possible undesirable decisions made by users (e.g., unfair decisions). Thus, it is important to ensure AI technology and systems are trustworthy in the whole AI lifecycle, from the early design stage, development, deployment to final use. At Huawei, I lead the UX research team to develop a roadmap that integrates Huawei AI trustworthy principles into product design and lifecycle, to create a framework that includes factors contributing users’ trust in AI products, and to provide engineers and product teams with tailor-made guidelines of how to design trustworthy AI cloud products.
 
 UX evaluation that monitors UX and provides actionable insights to product teams for UX improvement
 ---
