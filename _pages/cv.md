@@ -11,7 +11,9 @@ redirect_from:
 
 Education & Training
 ======
-* Senior User Researcher, Huawei Technologies Canada Co., Ltd (Sept 2022 - current)
+* Principal User Researcher, Autodesk (May 2023 - current)
+
+* Senior User Researcher, Huawei Technologies Canada Co., Ltd (Sept 2022 - May 2023)
 
 * User Researcher, Huawei Technologies Canada Co., Ltd (Sept 2021 - Aug 2022)
 
