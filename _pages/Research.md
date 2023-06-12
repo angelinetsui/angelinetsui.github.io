@@ -6,7 +6,8 @@ author_profile: true
 
 ---
 
-**PAST RESEARCH AT HUAWEI**
+## **PAST RESEARCH AT HUAWEI**
+---
 
 Designing trustworthy AI systems
 ---
