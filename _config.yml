@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Angeline Sin Mei Tsui"
 title_separator          : "-"
 name                     : &name "Angeline Sin Mei Tsui"
-description              : &description "Senior UX Researcher"
+description              : &description "Mixed-Method UX Researcher"
 url                      : https://angelinetsui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "angelinetsui/angelinetsui.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Angeline Sin Mei Tsui"
   avatar           : "A.Tsui_self_pic.JPG"
-  bio              : "Senior UX Researcher"
+  bio              : "Mixed-Method UX Researcher"
   location         : "Toronto, Canada"
   employer         :
   pubmed           :
