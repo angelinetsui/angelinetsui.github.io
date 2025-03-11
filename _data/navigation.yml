@@ -1,10 +1,10 @@
 # main links links
 main:
 
-  #- title: "Research"
+  - title: "Research"
    # url: /Research/
 
-  - title: "Portfolio"
+  #- title: "Portfolio"
     url: /portfolio/
     
   - title: "Publications"
