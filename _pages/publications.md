@@ -14,13 +14,21 @@ author_profile: true
 Peer-reviewed journal articles and conference proccedings
 ----
 
-**Tsui, A. S. M.**, & Kuzminykh, A. (accepted), Detect and Interpret: Towards Operationalization of Automated User Experience Evaluation. _Proceedings of the 25th HCI International Conference, HCII 2023_
+Weisleder, A., Friend, M., **Tsui, A. S. M.**, & Marchman, V. A. (2024). Using Parent Report to Measure Vocabulary in Young Bilingual Children: A Scoping Review. _Language Learning,_ 74(2), 468-505.
+
+Soderstrom, M., other contributors in ManyBabies consortium, **Tsui, A. S. M.**  (2024). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language,_ 1-26.
+
+Singh, L., Barokova, M., including **Tsui, A. S. M.**, ... & Frank, M. C. (2024). A Unified Approach to Demographic Data Collection for Research with Young Children Across Diverse Cultures. _Developmental Psychology,_ 60(2), 211.
+
+Kalashnikova, M†., Singh, L†., **Tsui, A. S. M***. and other contributing authors  (2024). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science,_ 27(3), e13459.
+
+†Co-first authors *Second author
+
+Zettersten, M., including **Tsui, A. S. M.**, and other contributing authors (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. _Open Mind,_ 8, 439-461.
+
+**Tsui, A. S. M.**, & Kuzminykh, A. (2023), Detect and Interpret: Towards Operationalization of Automated User Experience Evaluation. _Proceedings of the 25th HCI International Conference, HCII 2023_, 82-100.
 
 **Tsui, A. S. M.**, & Atance, C. M. (2022). Young Children’s Saving and Their Episodic Future Thinking. _Journal of Cognition and Development,_ 1-20.
-
-Singh, L., Barokova, M., including **Tsui, A. S. M.**, ... & Frank, M. C. (under review). A Unified Approach to Demographic Data Collection for Research with Young Children Across Diverse Cultures.
-
-Weisleder, A., Friend, M., **Tsui, A. S. M.**, & Marchman, V. A. (under review). Using Parent Report to Measure Vocabulary in Young Bilingual Children: A Scoping Review
 
 Zettersten, M., including **Tsui, A. S. M.**, .... & Frank, M. C. (2022). Peekbank: An open, large-scale repository for developmental eye-tracking data of children’s word recognition. _Behavior Research Methods_, 1-16.
 
@@ -52,13 +60,6 @@ Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Obu
 Visser, I., Geambasu, A., including **Tsui, A. S. M.** ... & Levelt, C. (2021). ManyBabies 3: A multi-lab study of infant algebraic rule learning. _Developmental Science_
 
 Schuwerk, T., including **Tsui, A. S. M.** and other contributing authors (Stage 1 RR accepted, pending data collection). Action anticipation based on an agent's epistemic state in toddlers and adults. _Child Development_
-
-Soderstrom, M., including **Tsui, A. S. M.** and other contributors in ManyBabies consortium (Stage 1 RR, pending data analysis). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language_
-
-Kalashnikova, M†., Singh, L†., **Tsui, A. S. M***. and other contributing authors  (Stage 2 RR, under review). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science._
-
-†Co-first authors *Second author
-
 
 Book chapters
 ----
