@@ -22,7 +22,6 @@ The workshop will guide product teams to design user-centered AI technologies. A
 1) Understand users’ AI needs
 2) Align AI capabilities with users’ values
 3) Identify feasible AI solutions that respect users’ data privacy and conform the Company's data ethics principles
-4) Drive a user-centered AI strategy for their users
 
 Activity 1: Understand users' AI needs
 - Identify who are the target users
