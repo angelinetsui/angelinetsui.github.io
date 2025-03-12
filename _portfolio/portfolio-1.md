@@ -1,6 +1,6 @@
 ---
 title: "Designing trustworthy AI systems"
-excerpt: "How do we design user-centered AI in a fast-paced tech environment<br/><img src='/images/500x300.png'>"
+excerpt: "How do we design user-centered AI in a fast-paced tech environment<br/><img src='/images/AI_design_2.tiff'>"
 collection: portfolio
 ---
 
@@ -11,10 +11,13 @@ With the advancement in AI technology, users often make decisions based on predi
 In this project, I developed and led a AI design-thinking workshop that helped designers, engineers and product managers to understand how to identify user needs and potential AI features that users want. I created design-thinking activities that educate people who do not have technical background to understand what AI need and interact with users, thus supporting the product teams to integrate user' perspectives in designing a AI features that users trust and willing to adopt.
 
 **Role and Time required**
+
 Role: Lead UX Researcher
+
 Time: 3 months
 
 **Content of the workshop**
+
 The workshop will guide product teams to design user-centered AI technologies. Attendees will learn the following from the workshop:
 1) Understand users’ AI needs
 2) Align AI capabilities with users’ values
@@ -39,6 +42,7 @@ Activity 3: Identify feasible AI solutions that respect users’ data privacy an
 <img width="1311" alt="AI data requirement" src="https://github.com/user-attachments/assets/9ded75cd-a818-4d8e-bbfb-f0752e577400" />
 
 **Deliverable**
+
 - Held workshops among 60+ stakeholders in cross-functional teams (Product, Design, Engineering)
 - Created template that Product teams can use easily to run workshop before deciding what AI they want to develop
 - Recognized for its impact, the workshop was selected to be presented at Autodesk Tech X Conference 2024
