@@ -1,6 +1,6 @@
 ---
 title: "UX metrics system"
-excerpt: "How to designing a scalable metrics system that evaluates UX across 200+ cloud products? <br/><img src='/images/Analysis.png'>"
+excerpt: "How do we design a scalable metrics system that evaluates UX across 200+ cloud products? <br/><img src='/images/Analysis.png'>"
 collection: portfolio
 ---
 
