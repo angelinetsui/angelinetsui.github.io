@@ -16,13 +16,13 @@ Peer-reviewed journal articles and conference proccedings
 
 Weisleder, A., Friend, M., **Tsui, A. S. M.**, & Marchman, V. A. (2024). Using Parent Report to Measure Vocabulary in Young Bilingual Children: A Scoping Review. _Language Learning,_ 74(2), 468-505.
 
-Soderstrom, M., other contributors in ManyBabies consortium, ***Tsui, A. S. M.***  (2024). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language,_ 1-26.
+Soderstrom, M., other contributors in ManyBabies consortium, **Tsui, A. S. M.***  (2024). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language,_ 1-26.
 
 *Last author
 
 Singh, L., Barokova, M., including **Tsui, A. S. M.**, ... & Frank, M. C. (2024). A Unified Approach to Demographic Data Collection for Research with Young Children Across Diverse Cultures. _Developmental Psychology,_ 60(2), 211.
 
-Kalashnikova, M†., Singh, L†., **Tsui, A. S. M***. and other contributing authors  (2024). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science,_ 27(3), e13459.
+Kalashnikova, M†., Singh, L†., **Tsui, A. S. M.*** and other contributing authors  (2024). The development of tone discrimination in infancy: Evidence from a cross-linguistic, multi-lab report. _Developmental Science,_ 27(3), e13459.
 
 †Co-first authors *Second author
 
