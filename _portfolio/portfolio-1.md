@@ -1,6 +1,6 @@
 ---
 title: "Designing trustworthy AI systems"
-excerpt: "How do we design user-centered AI in a fast-paced tech environment<br/><img src='/images/AI_design_rev.png'>"
+excerpt: "How do we design user-centered AI in a fast-paced tech environment? <br/><img src='/images/AI_design_rev.png'>"
 collection: portfolio
 ---
 
