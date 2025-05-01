@@ -11,11 +11,11 @@ redirect_from:
 
 Education & Training
 ======
+* Part-time Senior Researcher, Faculty of Information, University of Toronto (Jul 2023 – Current)	
+
 * Principal User Researcher, Autodesk (May 2023 - Feb 2025)
 
-* Senior User Researcher, Huawei Technologies Canada Co., Ltd (Sept 2022 - May 2023)
-
-* User Researcher, Huawei Technologies Canada Co., Ltd (Sept 2021 - Aug 2022)
+* Senior User Experience Researcher, Huawei Technologies Canada Co., Ltd (Sept 2021 - May 2023)
 
 * Postdoctoral Scholar in the department of Psychology, Stanford University (Dec 2018 - Aug 2021)
     * Advisor: Dr. Michael C. Frank
